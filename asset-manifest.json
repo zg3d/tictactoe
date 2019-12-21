@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/tictactoe/static/js/main.8a876874.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.8a876874.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.ec1aa65b.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.ec1aa65b.js.map",
+    "static/js/2.3da53c35.chunk.js": "/tictactoe/static/js/2.3da53c35.chunk.js",
+    "static/js/2.3da53c35.chunk.js.map": "/tictactoe/static/js/2.3da53c35.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.4911b594a2ba0d7f2bdad256111a5330.js": "/tictactoe/precache-manifest.4911b594a2ba0d7f2bdad256111a5330.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/tictactoe/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.3da53c35.chunk.js.LICENSE": "/tictactoe/static/js/2.3da53c35.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1aa65b.js",
+    "static/js/2.3da53c35.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.8a876874.chunk.js"
+  ]
+}
